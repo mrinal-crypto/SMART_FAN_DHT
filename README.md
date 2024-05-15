@@ -1,1 +1,3 @@
 # SMART_FAN_DHT
+
+This is very high speed fan with BLDC motor which generally used in server computer. Arduino nano is used here for controlling all features like Speed Controll, Power Controll, Mode Selection and also store Last Settings. Main features of this fan is it adjust its speed with teperature increasing or decreasing, there is a knob which is also help you to adjust temperarture sensitivity. You may use any battery or power adaptor to run the fan. Power consumption is very low because of BLDC motor. 
